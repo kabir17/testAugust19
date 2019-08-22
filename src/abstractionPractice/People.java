@@ -10,9 +10,9 @@ public class People extends Teenage  implements Baby{
     }
 
     public void boyBaby(){
-        System.out.println("Boy baby is screaming");
+        System.out.println("Boy baby is not screaming");
     }
     public void young(){
-        System.out.println("One day boy will become young");
+        System.out.println("One day this boy baby will become young");
     }
 }
